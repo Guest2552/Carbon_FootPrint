@@ -1,0 +1,15 @@
+Entity,Year,Transport emissions per kilometer travelled
+Bus (average),2022,96.5
+Coach (bus),2022,27.33
+Diesel car,2022,170.82
+Domestic flight,2022,245.87
+Electric car,2022,47.09
+Ferry (foot passenger),2022,18.74
+Long-haul flight,2022,147.87
+Motorbike,2022,113.55
+National rail,2022,35.49
+Petrol car,2022,170.48
+Plug-in hybrid,2022,68.4
+Short-haul flight,2022,151.02
+Tram,2022,28.61
+Walk/Cycle,2022,0.0
