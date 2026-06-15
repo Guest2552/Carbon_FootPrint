@@ -21,7 +21,7 @@ pytest -q
 ## 📁 Project structure
 
 ```
-carbonlens_v3/
+carbonlens/
 ├── app.py                          ← Auth + routing + sidebar
 ├── requirements.txt
 ├── carbonlens.db                   ← Auto-created on first run
