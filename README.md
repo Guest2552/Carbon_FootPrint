@@ -1,4 +1,4 @@
-# 🌍 CarbonLens AI — Version 3 (Hackathon Final)
+# 🌍 CarbonLens AI
 
 > Full-stack personal carbon intelligence platform built with Streamlit + SQLite + Groq LLaMA 3.3
 
